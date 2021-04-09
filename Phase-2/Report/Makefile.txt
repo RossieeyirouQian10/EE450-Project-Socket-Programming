@@ -1,0 +1,19 @@
+Name: Yirou Qian
+USC ID: 4354716429
+Project Phase 2
+
+
+All Compilation Steps on viterbi-scf2.usc.edu:
+
+1. g++ -o admission Admission.cpp -lnsl -lresolv
+2. g++ -o department Department.cpp -lnsl -lresolv
+3. g++ -o student Student.cpp -lnsl -lresolv
+
+
+Executing Steps on terminal:
+
+1. Admission.cpp: ./admission
+
+2. Department.cpp: ./department
+
+3. Student.cpp: ./student
